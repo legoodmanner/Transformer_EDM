@@ -1,4 +1,4 @@
-### Transformer Loop
+# Transformer Loop
 ![](https://i.imgur.com/AW7BlnL.png)
 ## Introduction
 This is the repo regarding experiments of EDM music generation using VQ-VAE Transformer. We experimented with different lengths of token sequences and showed the relationship between validity and sequence length in the fixed BPM of 120.
