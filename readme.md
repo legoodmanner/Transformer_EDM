@@ -67,8 +67,8 @@ The name of the parameter set would be named:
 * If the songs in the training data is all 4/4 beat or 2/4 beat. It is recommended to have the sequence length with the number of power of 2.
 * Some generated demo samples are provided in the directory "demo".
 
-
-
+## Reference
+[1] Kevin Kilgour, Mauricio Zuluaga, Dominik Roblek, Matthew Sharifi. "Fréchet Audio Distance: A Metric for Evaluating Music Enhancement Algorithms". 2018
 
 
 
